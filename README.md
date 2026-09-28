@@ -24,6 +24,6 @@ This is a simple login system made by a beginner studying Back-End.
 
 **Clone repository command:**
 ```bash
-git clone https://github.com/kauaokamoto/test.git
+git clone https://github.com/kauaokamoto/Login.git
 ```
 and run the program.
